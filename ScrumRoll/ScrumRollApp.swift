@@ -11,7 +11,7 @@ import SwiftUI
 struct ScrumRollApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            MeetingView()
         }
     }
 }
